@@ -1,17 +1,21 @@
 {
-  "name": "nvweb164-server",
+  "name": "first-nodejs",
   "version": "1.0.0",
-  "description": "Nodejs Vuejs web server (backend)",
+  "description": "simple NodeJs Project for first lab exam",
   "main": "src/app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "Natawat",
-    "Promtang"
-  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aefza/nvweb.git"
+  },
   "author": "Natawat Promtang",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aefza/nvweb/issues"
+  },
+  "homepage": "https://github.com/aefza/nvweb#readme",
   "dependencies": {
     "express": "^4.17.1"
   }
